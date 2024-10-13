@@ -1,0 +1,13 @@
+// Файлы указаний помогают среде IDE Visual Studio интерпретировать идентификаторы Visual C++
+// (например, имена функций и макросов).
+// Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=865984
+#define _CONSTEXPR20
+// Файлы указаний помогают среде IDE Visual Studio интерпретировать идентификаторы Visual C++
+// (например, имена функций и макросов).
+// Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=865984
+#define _CRT_GUARDOVERFLOW __declspec(guard(overflow))
+#define _CRT_GUARDOVERFLOW
+// Файлы указаний помогают среде IDE Visual Studio интерпретировать идентификаторы Visual C++
+// (например, имена функций и макросов).
+// Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=865984
+#define _CONSTEXPR20
